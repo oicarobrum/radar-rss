@@ -2,3 +2,4 @@ streamlit
 feedparser
 wordcloud
 matplotlib
+scikit-learn
